@@ -40,27 +40,6 @@ sudo apt update && sudo apt install tree
          - 사용법 도움말을 표시합니다.
 
    2. 실행예시
-  ```bash
-    $ ./check_tree.sh -n 5 /home/user/project
-    1     디렉토리: /home/user/project
-    2     각 파일 타입별로 디렉토리당 최대 5개까지 표시됩니다.
-    3     ----------------------------------------
-    4     .
-    5     ├───etri_3dloc/
-    6     │   ├───__init__.py
-    7     │   ├───calibrate_camera.py
-    8     │   ├───estimate_pose.py
-    9     │   ├───evaluate_pose_ETRI.py
-   10     │   ├───evaluate_vpair.py
-   11     │   │   ... (더 많은 .py 파일들)
-   12     │   ├───240602_ETRI.json
-   13     │   └───dataloader/
-   14     │       ├───__init__.py
-   15     │       └───base_dataset.py
-   16     └───test/
-   17         ├───__init__.py
-   18         ├───change_bgr_to_rgb.py
-   19         ├───check_imagesize.py
-   20         └───merge_images.py
-  ```
-  </details>
+
+  <img width="426" height="857" alt="Image" src="https://github.com/user-attachments/assets/8e5b8178-c5fb-4ca1-aec4-5a95bacff2af" />
+  
